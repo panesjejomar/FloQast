@@ -77,6 +77,7 @@ label{
 	float: left;
 }
 
+
 #about{
 	background-color: #88CC00;
 	border-radius: 4px;
@@ -107,4 +108,16 @@ button{
 button:active{
 	transform: translate(4px) translateY(4px);
 	box-shadow: #8c1 0 0 0;
+}
+
+.flex-row{
+	justify-content: space-between;
+}
+
+#grey {
+	color: grey;
+}
+
+#green{
+	color:#88CC00;
 }
